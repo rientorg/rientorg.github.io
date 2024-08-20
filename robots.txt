@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rientorg.github.io/sitemap.html.gz
+Sitemap: https://rientorg.github.io/app/sitemap.html.gz
+Sitemap: https://rientorg.github.io/assets/sitemap.html.gz
+Sitemap: https://rientorg.github.io/css/sitemap.html.gz
+Sitemap: https://rientorg.github.io/includes/sitemap.html.gz
+Sitemap: https://rientorg.github.io/item/sitemap.html.gz
+Sitemap: https://rientorg.github.io/src/sitemap.html.gz
